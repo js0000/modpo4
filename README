@@ -1,0 +1,30 @@
+modpo4 > README
+
+This code came to be written because I was assigned to do some writing in the
+Modern and Contemporary Poetry Massive Open Online Course I took the time to
+participate in. The assignment had two parts, but only one of them needed to be
+done. So I chose one of the parts and did it.
+
+
+    Systematically eliminate the use of certain kinds of words or phrases from
+    a piece of writing: for example, eliminate all adjectives from a poem of
+    your own or another poem, for example a poem in our course; or take out all
+    words beginning with 's' in one or several of Shakespeare's sonnets or any
+    poem or poems from our course.
+
+
+This writing prompt was taken from Bernadette Mayer's Writing Experiments which
+can be found if you have the appropriate technology at the following address:
+http://www.writing.upenn.edu/library/Mayer-Bernadette_Experiments.html 
+
+In response to this prompt I wrote a short program. Nothing personal, but it
+takes 2 arguments:
+
+ 1. -f <File name and (if needed) path>
+ 2. -l <initial Letter of words to be removed> 
+    [if this is not passed in, it will be randomly assigned]
+
+So, to run this program on a sonnet by Shakespeare in order to remove all words
+begining with 's', the command line would be:
+bmwe2a.pl -f sonnet-101.txt -l s
+

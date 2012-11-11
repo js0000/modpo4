@@ -1,0 +1,22 @@
+# original filename: sonnet-101.txt
+# words removed begining with: s
+# time of processing: Sun Nov 11 12:13:18 2012
+#   2012 john saylor
+
+
+
+O truant Muse what be thy amends
+For thy neglect of truth in beauty dyed?
+Both truth and beauty on my love depends;
+dost thou too, and therein dignified.
+Make answer Muse: wilt thou not haply 
+'Truth needs no colour, with his colour fixed;
+Beauty no pencil, beauty's truth to lay;
+But best is best, if never intermixed'?
+Because he needs no praise, wilt thou be dumb?
+Excuse not for't lies in thee
+To make him much outlive a gilded tomb
+And to be praised of ages yet to be.
+   Then do thy office, Muse; I teach thee how
+   To make him long hence, as he now.
+
